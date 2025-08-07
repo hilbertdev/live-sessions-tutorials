@@ -15,7 +15,7 @@ import jakarta.servlet.http.HttpServletResponse;
  *
  * @author hilbertmu
  */
-@WebServlet(urlPatterns = {"/HelloServlet"})
+@WebServlet(urlPatterns = {"/HelloServletvv"})
 public class HelloServlet extends HttpServlet {
 
     /**

@@ -15,13 +15,13 @@ import jakarta.servlet.http.HttpServletResponse;
  *
  * @author hilbertmu
  */
-@WebServlet(urlPatterns = {"/HelloServletvv"})
+@WebServlet(urlPatterns = {"/HelloServlet"})
 public class HelloServlet extends HttpServlet {
 
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
      * methods.
-     *
+     * Made a change 
      * @param request servlet request
      * @param response servlet response
      * @throws ServletException if a servlet-specific error occurs
